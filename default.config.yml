@@ -27,7 +27,6 @@ homebrew_installed_packages:
   - openssl
   - wget
   - bash-completion
-  -
 
 homebrew_taps:
   - homebrew/core
@@ -38,7 +37,6 @@ homebrew_cask_appdir: /Applications
 homebrew_cask_apps:
   - atom
   - docker
-  - evernote
   - firefox
   - google-chrome
   - macvim
